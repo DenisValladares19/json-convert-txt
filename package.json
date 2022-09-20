@@ -1,0 +1,12 @@
+{
+  "name": "json-convert-txt",
+  "version": "1.0.1",
+  "description": "Libreria para convertir json a txt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Denis Valladares",
+  "license": "ISC"
+}
