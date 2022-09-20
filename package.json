@@ -6,7 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "JSON",
+    "JSON TO TXT",
+    "CONVERT JSON"
+  ],
   "author": "Denis Valladares",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisValladares19/json-convert-txt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DenisValladares19/json-convert-txt/issues"
+  },
+  "homepage": "https://github.com/DenisValladares19/json-convert-txt#readme"
 }
